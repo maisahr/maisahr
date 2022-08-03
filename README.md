@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Isabela</h1>
-<h3 align="center">Estudiante de desarrollo front-end en Laboratoria 🇲🇽</h3>
+<h3 align="center">Desarrolladora front-end 🇲🇽</h3>
 
 - 🤝 ¡Busco compartir y aprender junto con otrxs!
 - 🌱 Actualmente estoy aprendiendo **React.**
