@@ -4,7 +4,6 @@
 - 🤝 ¡Busco compartir y aprender junto con otrxs!
 - 🌱 Actualmente estoy aprendiendo **React.**
 - 💬 Además de la programación, me interesan **las artes y las ciencias sociales.**
-- 📄 Un poco más sobre mi experiencia: [Mi currículum](https://www.canva.com/design/DAE8UPB-svw/3gmuUhHeLv1c44nfdcZKIg/view?utm_content=DAE8UPB-svw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
